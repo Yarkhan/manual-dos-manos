@@ -1,0 +1,62 @@
+body{
+	color:white;
+	background:black;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Frijole', cursive;
+
+}
+.media h4{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.navbar{
+	font-family: 'Frijole', cursive;	
+	background:black url('../img/navbar.jpg');
+	border-bottom:1px solid white;
+}
+.navbar a{
+	color:white;
+}
+.navbar a:hover{
+	color:black;
+	text-shadow: 0px 0px 15px #ffffff;
+        filter: dropshadow(color=#ffffff, offx=0, offy=0);
+}
+.navbar li a{
+	color:white;
+}
+.navbar li a:hover{
+	color:black;
+	text-shadow: 0px 0px 15px #ffffff;
+        filter: dropshadow(color=#ffffff, offx=0, offy=0);
+}
+.navbar li:hover{
+	background:none;
+}
+
+.nav-tabs{
+	font-family: 'Frijole', cursive;
+}
+.well{
+	background:black url('../img/well.jpg');
+	border:1px solid #2E2E2E;
+}
+#footer{
+	font-family: 'Frijole', cursive;	
+	background:black url('../img/navbar.jpg');
+	border-top:1px solid white;
+}
+
+.thumbnail32{
+	width:32px;
+	height:32px;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td{
+	background-color: #242424;
+}
+
+td .text-danger{
+	background:#d43f3a;
+	color:white;
+}
