@@ -1,7 +1,7 @@
 
 //Event Listeners
 $('body').on('click',function(e){
-	if(e.toElement.tagName == "A" and e.toElement.tagName == document.location.hostname){
+	if(e.toElement.tagName == "A" && e.toElement.hostname == document.location.hostname){
 		console.log(e);
 		e.preventDefault();
 		location.href="#!"+e.toElement.href.split('/').pop();
