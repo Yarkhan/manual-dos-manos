@@ -1,3 +1,8 @@
+Notice
+===============
+Em 2014 o site do PHP adicionou uma busca instantânea no site, e agora podemos
+achar funções e classes muito mais rapidamente. Este projeto continuará aqui por motivos históricos... ou para o caso de alguém migrar para algum lugar sem internet e mesmo assim quiser uma documentação navegável.
+
 manual-dos-manos
 ================
 
@@ -8,6 +13,9 @@ Acesse o manual PHP offline com pesquisa instantânea
 http://www.php.net/download-docs.php
 
 
+Notice
+===============
+In 2014 PHP.net added instantant search on their website, and now we can find functions and classes much more eficiently. This project will remain here for historical reasons... or in the case someone migrates to somewhere without internet access and in need of an usable documentation.
 
 manual-dos-manos
 ================
