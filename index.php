@@ -10,7 +10,7 @@
 		<div id="search" class="col-3">
 			<form action="#" id="search_form">
 				<div class="form-group">
-					<input type="text" id="search_term" class="form-control" placeholder="Procurar por....">
+					<input type="text" id="search_term" class="form-control" placeholder="Procurar por...">
 					<button type="submit" class="btn btn-default form-control" >Vai!</button>
 				</div>
 			</form>
@@ -25,7 +25,7 @@
 				localmente.	Evite termos muito genéricos (por exemplo: function). Trazer resultados 
 				demais pode fazer o seu servidor travar por uns minutos.</p>
 
-			<p>Fiz esse programa porque minha conexão é uma porcaria. E meu computador não aguenta lidar
+			<p>Fiz esse programa porque minha conexão é uma porcaria e meu computador não aguenta lidar
 				com +12.000 arquivos ou um html de 50mb. Anyways, enjoy ;)</p>
 			<p>PS: Tem muita coisa pra fazer/consertar ainda...</p>
 				<p class="pull-right"><a href="http://facebook.com/ronyarkhan">Yarkhan</a></p>
